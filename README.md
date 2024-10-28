@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyunaday's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hyunaday's%20Github&fontSize=40)
 
 
 <!-- 방문자 수 카운터 -->
@@ -64,4 +64,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyunaday&theme=radical)
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient)
+![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=auto&gradient)
