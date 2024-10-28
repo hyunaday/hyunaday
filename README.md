@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning **[KB IT's Your Life 5기]**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hyunaday/front](https://github.com/hyunaday/front)
+- 👨‍💻 <h3>Projects</h3>
+  [모두의결제](https://github.com/hyunaday/front) - 편리한 전자지갑 서비스 (Vue.js+ Spring + MySQL)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
