@@ -47,7 +47,7 @@
 <br>
 
 ## 🔗 Projects
-- [모두의 결제](https://github.com/hyunaday/front) - 편린한 전자지갑서비스 (Vue.js + Spring + MySQL)
+- [모두의 결제](https://github.com/hyunaday/front) - 편리한 전자지갑서비스 (Vue.js + Spring + MySQL)
 - [달디단](https://github.com/hyunaday/GROUP-PROJECT) - 온라인 가계부 (Vue.js + JSON)
 
 <br>
