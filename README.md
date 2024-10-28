@@ -38,8 +38,8 @@
 
 ## 🌱 Currently Learning
 - Advanced Java & Spring
-- Cloud Architecture with AWS
-- Machine Learning with Python (Scikit-learn, TensorFlow)
+<!-- - Cloud Architecture with AWS -->
+- Machine Learning with Python 
 <br>
 
 ## 📚 Experience
