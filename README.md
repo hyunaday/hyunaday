@@ -1,72 +1,63 @@
-<img src="" />
+<!-- Header -->
+![Waving]()
 
-# Hi 👋 I am Hyuna Cho
+
+<!-- 방문자 수 카운터 -->
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubin4420&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+
+### 👋 Hi, I am Hyuna Cho!
+
+### 📫 Contact
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyj9512@naver.com)
+<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin) -->
+
 <br>
 
-## Currently Learning
+## 🛠️ Skills
+**Lang and Frameworks**  
+![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
+![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)<br> -->
+![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+
+<br>
+
+**Infra and Tools**  
+<!-- ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) -->
+![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+<!-- ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)<br> -->
+![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
+![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+<br>
+
+## 🌱 Currently Learning
 - Advanced Java & Spring
-- [Velog](https://velog.io/@hyunaday/posts)
-
-
-<br>
-
-## 🛠️ My skills
-<div>
-	<img src="https://img.shields.io/badge/Java-FC4C02?style=flat&logo=coffeescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-<!--	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /> 
-	<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" /> -->
-	<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
-	<br>
-  	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GoogleCloud&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazonwebservices&logoColor=white" />
-  	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=Mongodb&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-</div>
+- Cloud Architecture with AWS
+- Machine Learning with Python (Scikit-learn, TensorFlow)
 <br>
 
 ## 📚 Experience
-- KB IT's Your Life 5th (24.05.07 ~ 24.10.24)
+- KB IT's Your Life 5th (24/05/07 ~ 24/10/24)
+<br>
+
+## 🔗 Projects
+- [모두의 결제](https://github.com/hyunaday/front) - 편린한 전자지갑서비스 (Vue.js + Spring + MySQL)
+
 <br>
 
 
-<!--
-## [Boj](https://www.acmicpc.net/) Stats
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh1010a)](https://solved.ac/dh1010a)
-<br>
--->
+### 🚌 Top Langs & Algorithm
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunaday&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunaday&show_icons=true&theme=radical)
 
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunaday&show_icons=true&theme=radical)
+### 📊 GitHub Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyunaday&theme=radical)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyunaday&show_icons=true&theme=tokyonight&title_color=7300ff&text_color=00d5ff&locale=en&layout=compact" alt="hyunaday" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyunaday&" alt="hyunaday" /></p>
-
-
-<!--
-**hyunaday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient)
