@@ -1,37 +1,72 @@
-<h1 >Hi👋 I'm hyuna Cho</h1>
-<h3 align="left">A passionate developer from South Korea</h3>
+<img src="" />
 
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyunaday&label=Profile%20views&color=0e75b6&style=flat" alt="hyunaday" /> </p>
+# Hi 👋 I am Hyuna Cho
+<br>
+
+## Currently Learning
+- Advanced Java & Spring
+- [Velog](https://velog.io/@hyunaday/posts)
+
+
+<br>
+
+## 🛠️ My skills
+<div>
+	<img src="https://img.shields.io/badge/Java-FC4C02?style=flat&logo=coffeescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+<!--	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /> 
+	<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" /> -->
+	<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+	<br>
+  	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GoogleCloud&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazonwebservices&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=Mongodb&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+</div>
+<br>
+
+## 📚 Experience
+- KB IT's Your Life 5th (24.05.07 ~ 24.10.24)
+<br>
+
+
+<!--
+## [Boj](https://www.acmicpc.net/) Stats
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh1010a)](https://solved.ac/dh1010a)
+<br>
 -->
 
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyunaday" alt="hyunaday" /></a> </p> 
--->
-
-<h3 align="left">🛠️ Skills</h3>
-<hr>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunaday&show_icons=true&theme=radical)
 
 
-<h3> 🌱 Currently learning </h3>
-<hr>
-- I am currently learning Java, Spring
-<br>
-
-<h3> 📚 Experience </h3>
-<hr>
-- KB IT's Your Life 5th (2024.05.07 ~ 2024.10.24)
-<br>
-
- <h3>👨‍💻 Projects</h3>
- <hr>
-  <a href="https://github.com/hyunaday/front">[모두의결제]</a> - 편리한 전자지갑 서비스 (Vue.js+ Spring + MySQL)
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyunaday&show_icons=true&locale=en&layout=compact" alt="hyunaday" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyunaday&show_icons=true&theme=dark&locale=en" alt="hyunaday" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyunaday&show_icons=true&theme=tokyonight&title_color=7300ff&text_color=00d5ff&locale=en&layout=compact" alt="hyunaday" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyunaday&" alt="hyunaday" /></p>
+
+
+<!--
+**hyunaday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
