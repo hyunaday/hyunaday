@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm hyuna</h1>
 <h3 align="center">A passionate developer from South Korea</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyunaday&label=Profile%20views&color=0e75b6&style=flat" alt="hyunaday" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyunaday" alt="hyunaday" /></a> </p>
+
 - 🌱 I’m currently learning **[KB IT's Your Life 5기]**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hyunaday/front](https://github.com/hyunaday/front)
@@ -15,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyunaday&show_icons=true&locale=en&layout=compact" alt="hyunaday" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyunaday&show_icons=true&theme=dark&locale=en" alt="hyunaday" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyunaday&" alt="hyunaday" /></p>
