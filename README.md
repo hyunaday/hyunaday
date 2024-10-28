@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm hyuna</h1>
-<h3 align="center">A passionate developer from South Korea</h3>
+<h1 >Hi 👋, I'm hyuna</h1>
+<h3 align="left">A passionate developer from South Korea</h3>
 
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyunaday&label=Profile%20views&color=0e75b6&style=flat" alt="hyunaday" /> </p>
