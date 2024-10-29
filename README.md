@@ -34,6 +34,7 @@
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+
 <!-- ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)<br> -->
 <br>
@@ -65,5 +66,6 @@
 ### 📊 GitHub Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyunaday&theme=radical)
 
+<!-- ![Algorithm](https://img.shields.io/github/last-commit/{hyunaday}/{hyunaday}.svg) -->
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=auto&gradient)
