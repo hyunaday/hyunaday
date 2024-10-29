@@ -9,7 +9,7 @@
 
 ### 📫 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyuna88070@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-00C300?style=for-the-badge&logo=Naver&logoColor=white)](mailto:cyj9512@naver.com)
+<!-- [![Naver](https://img.shields.io/badge/Naver-00C300?style=for-the-badge&logo=Naver&logoColor=white)](mailto:cyj9512@naver.com) -->
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin) -->
