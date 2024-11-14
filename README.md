@@ -62,9 +62,10 @@
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunaday&show_icons=true&theme=radical)
-
+<!--
 ### 📊 GitHub Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyunaday&theme=radical)
+-->
 
 <!-- ![Algorithm](https://img.shields.io/github/last-commit/{hyunaday}/{hyunaday}.svg) -->
 <!-- Footer -->
