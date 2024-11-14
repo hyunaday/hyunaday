@@ -60,8 +60,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunaday&layout=compact&theme=radical)
 
 <br>
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunaday&show_icons=true&theme=radical)
+-->
 <!--
 ### 📊 GitHub Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyunaday&theme=radical)
