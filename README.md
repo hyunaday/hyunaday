@@ -56,7 +56,7 @@
 <br>
 
 
-### 🚌 Top Langs & Algorithm
+### 🚌 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunaday&layout=compact&theme=radical)
 
 <br>
